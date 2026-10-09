@@ -1,0 +1,6 @@
+{
+  "name": "PrimeCut AI — Professional AI Video Studio",
+  "description": "Full-stack AI video creation and multi-track editing workspace with Gemini script breakdown, stock media search, web research, timeline editing, and canvas video rendering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
